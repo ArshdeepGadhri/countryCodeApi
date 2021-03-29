@@ -4,7 +4,7 @@
   "description": "an Restful Api for country ISO codes",
   "main": "index.js",
   "scripts": {
-    "start": "noedemon app.js"
+    "start": "nodemon app.js"
   },
   "author": "Arshdeep Gadhri",
   "license": "ISC",
