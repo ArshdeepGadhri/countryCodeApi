@@ -1,0 +1,15 @@
+{
+  "name": "countrycodeapi",
+  "version": "0.0.1",
+  "description": "an Restful Api for country ISO codes",
+  "main": "index.js",
+  "scripts": {
+    "start": "noedemon app.js"
+  },
+  "author": "Arshdeep Gadhri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
